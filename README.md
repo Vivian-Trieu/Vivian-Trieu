@@ -1,6 +1,4 @@
-<h2 align="center">Hi 👋! I'm Vivian Trieu</h2>
-
-<h4 align="center">New graduate from Cal Poly Pomona with a B.S. in Computer Science</h4>
+<h2 align="center">Hi, I'm Vivian Trieu</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivian-Trieu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -9,7 +7,7 @@
 <br />
 <img align="right" height="200" src="https://media.giphy.com/media/2FCo5v03ln7DHtksEX/giphy.gif" />
 
-- 🔭 I’m currently working on [Bronco Bond](https://github.com/BroncoBond/Bronco-Bond)
+- 🔭 I’m currently working on [Bronco Bond](https://github.com/BroncoBond/Bronco-Bond) using **Dart/Flutter**
   
 - 🌱 I’m currently learning **React, UI/UX Design**
 
