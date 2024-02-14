@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bronco Bond](https://github.com/BroncoBond/Bronco-Bond) using **Dart/Flutter**
   
-- 🌱 I’m currently learning **React, UI/UX Design**
+- 🌱 I’m currently learning and strengthening my skills in **React, UI/UX Design**
 
 - 💖 I'm passionate about **Front-End Development, UI Design, and Digital Art**
 
