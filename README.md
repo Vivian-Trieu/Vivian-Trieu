@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning and strengthening my skills in **React, UI/UX Design**
 
 - 💖 I'm passionate about **Front-End Development, UI Design, and Digital Art**
+  
+- 🖥️ View my portfolio [here](https://vivian-trieu.github.io/portfolio-website/)!
 
 ## Skills
 <div align="left">
