@@ -6,8 +6,6 @@
 </div>
 <br />
 <img align="right" height="200" src="https://media.giphy.com/media/2FCo5v03ln7DHtksEX/giphy.gif" />
-
-- 🔭 I’m currently working on [Bronco Bond](https://github.com/BroncoBond/Bronco-Bond) using **Dart/Flutter**
   
 - 🌱 I’m currently learning and strengthening my skills in **React, UI/UX Design**
 
